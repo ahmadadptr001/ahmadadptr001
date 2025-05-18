@@ -1,7 +1,7 @@
 ### 📊 My Sats :(
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadadptr001&show_icons=true&theme=radical)
 
-### viewer
+### View
 ![Visitor Badge](https://komarev.com/ghpvc/?username=ahmadadptr001&color=blue)
 
 ### 🔥 Language Programming
